@@ -1,13 +1,13 @@
-package Robin.com.common;
+package tester.com.common;
 
-import Robin.com.driver.DriverManager;
-import Robin.com.driver.TargetFactory;
-import Robin.com.helpers.PropertiesHelpers;
-import Robin.com.listeners.TestListener;
+import tester.com.driver.DriverManager;
+import tester.com.driver.TargetFactory;
+import tester.com.helpers.PropertiesHelpers;
+import tester.com.listeners.TestListener;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ThreadGuard;
 import org.testng.annotations.*;
-import Robin.com.pages.CommonPage;
+import tester.com.pages.CommonPage;
 
 import java.lang.reflect.Method;
 

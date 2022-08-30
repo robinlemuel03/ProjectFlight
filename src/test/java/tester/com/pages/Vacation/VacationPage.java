@@ -1,7 +1,7 @@
-package Robin.com.pages.Vacation;
+package tester.com.pages.Vacation;
 
 import org.openqa.selenium.By;
-import Robin.com.utils.WebUI;
+import tester.com.utils.WebUI;
 
 public class VacationPage {
     By fromInputbox = By.id("vacationsTab_origin");

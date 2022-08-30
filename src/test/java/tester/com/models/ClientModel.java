@@ -1,4 +1,4 @@
-package Robin.com.models;
+package tester.com.models;
 
 import lombok.Data;
 

@@ -1,7 +1,7 @@
-package Robin.com.annotations;
+package tester.com.annotations;
 
-import Robin.com.enums.AuthorType;
-import Robin.com.enums.CategoryType;
+import tester.com.enums.AuthorType;
+import tester.com.enums.CategoryType;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

@@ -1,4 +1,4 @@
-package Robin.com.report;
+package tester.com.report;
 
 import com.aventstack.extentreports.ExtentTest;
 

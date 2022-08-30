@@ -1,4 +1,4 @@
-package Robin.com.report.exceptions;
+package tester.com.report.exceptions;
 
 public class InvalidPathForExcelException extends InvalidPathForFilesException{
 

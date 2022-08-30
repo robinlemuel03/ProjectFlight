@@ -1,4 +1,4 @@
-package Robin.com.config;
+package tester.com.config;
 
 import org.aeonbits.owner.ConfigCache;
 

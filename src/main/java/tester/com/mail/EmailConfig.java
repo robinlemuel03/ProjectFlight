@@ -1,7 +1,7 @@
 
-package Robin.com.mail;
+package tester.com.mail;
 
-import static Robin.com.constants.FrameworkConstants.REPORT_TITLE;
+import static tester.com.constants.FrameworkConstants.REPORT_TITLE;
 
 /**
  * Data for Sending email after execution

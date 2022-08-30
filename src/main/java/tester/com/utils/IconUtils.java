@@ -1,10 +1,10 @@
 
 
-package Robin.com.utils;
+package tester.com.utils;
 
-import Robin.com.enums.Browser;
+import tester.com.enums.Browser;
 
-import static Robin.com.constants.FrameworkConstants.*;
+import static tester.com.constants.FrameworkConstants.*;
 
 public final class IconUtils {
 

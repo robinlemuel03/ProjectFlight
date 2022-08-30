@@ -1,5 +1,5 @@
 
-package Robin.com.mail;
+package tester.com.mail;
 
 import javax.mail.*;
 import javax.mail.internet.*;

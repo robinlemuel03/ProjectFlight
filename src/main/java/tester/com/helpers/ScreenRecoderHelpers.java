@@ -1,6 +1,6 @@
-package Robin.com.helpers;
+package tester.com.helpers;
 
-import Robin.com.constants.FrameworkConstants;
+import tester.com.constants.FrameworkConstants;
 import org.monte.media.Format;
 import org.monte.media.FormatKeys;
 import org.monte.media.Registry;

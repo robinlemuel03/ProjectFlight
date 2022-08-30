@@ -1,16 +1,16 @@
 
 
-package Robin.com.utils;
+package tester.com.utils;
 
-import Robin.com.report.exceptions.FrameworkException;
-import Robin.com.report.exceptions.InvalidPathForExtentReportFileException;
+import tester.com.report.exceptions.FrameworkException;
+import tester.com.report.exceptions.InvalidPathForExtentReportFileException;
 
 import java.awt.*;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 
-import static Robin.com.constants.FrameworkConstants.*;
+import static tester.com.constants.FrameworkConstants.*;
 
 public final class ReportUtils {
 

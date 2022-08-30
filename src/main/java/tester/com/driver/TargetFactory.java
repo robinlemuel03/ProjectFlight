@@ -1,10 +1,10 @@
 
-package Robin.com.driver;
+package tester.com.driver;
 
-import Robin.com.constants.FrameworkConstants;
-import Robin.com.enums.Target;
-import Robin.com.report.exceptions.TargetNotValidException;
-import Robin.com.utils.Log;
+import tester.com.constants.FrameworkConstants;
+import tester.com.enums.Target;
+import tester.com.report.exceptions.TargetNotValidException;
+import tester.com.utils.Log;
 import org.openqa.selenium.MutableCapabilities;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.remote.RemoteWebDriver;

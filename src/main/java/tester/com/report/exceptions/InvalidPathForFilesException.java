@@ -1,4 +1,4 @@
-package Robin.com.report.exceptions;
+package tester.com.report.exceptions;
 
 @SuppressWarnings("serial")
 public class InvalidPathForFilesException extends FrameworkException {

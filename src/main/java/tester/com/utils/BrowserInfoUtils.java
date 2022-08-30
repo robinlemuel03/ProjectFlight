@@ -1,9 +1,9 @@
 
 
-package Robin.com.utils;
+package tester.com.utils;
 
 import org.testng.Reporter;
-import Robin.com.constants.FrameworkConstants;
+import tester.com.constants.FrameworkConstants;
 
 public final class BrowserInfoUtils {
 

@@ -1,14 +1,14 @@
 
 
-package Robin.com.utils;
+package tester.com.utils;
 
-import Robin.com.constants.FrameworkConstants;
-import Robin.com.mail.EmailAttachmentsSender;
+import tester.com.constants.FrameworkConstants;
+import tester.com.mail.EmailAttachmentsSender;
 
 import javax.mail.MessagingException;
 
-import static Robin.com.constants.FrameworkConstants.REPORT_TITLE;
-import static Robin.com.mail.EmailConfig.*;
+import static tester.com.constants.FrameworkConstants.REPORT_TITLE;
+import static tester.com.mail.EmailConfig.*;
 
 public class EmailSendUtils {
 
